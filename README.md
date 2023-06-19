@@ -1,4 +1,6 @@
-# MongoDB connection Template made with Golang
+# mon**GO**
+
+mongoDB connection practice template build in golang.
 
 Made with love, to learn.
 
