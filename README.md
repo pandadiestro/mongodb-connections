@@ -1,5 +1,5 @@
-# Conexiones a mongodb
+# MongoDB connection Template made with Golang
 
-Conexiones y operaciones a MongoDB Atlas con NodeJS y Rust 🍃
+Made with love, to learn.
 
-![MongoDB](https://webimages.mongodb.com/_com_assets/cms/kuzt9r42or1fxvlq2-Meta_Generic.png)
+![gopherpaty](https://images-ext-2.discordapp.net/external/MTZJ8vLIKA-6Bih7MZUqC7Pwng9LBJ1hO5aAvEyQtm0/https/cdn.discordapp.com/emojis/472490455096098827.gif)
