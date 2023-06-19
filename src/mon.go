@@ -9,8 +9,8 @@ import (
 	"go.mongodb.org/mongo-driver/mongo"
 	"go.mongodb.org/mongo-driver/mongo/options"
 
-	env "mongo/dotenv"
-	utils "mongo/utils"
+	env "mongo/src/dotenv"
+	utils "mongo/src/utils"
 )
 
 type envURI struct {
@@ -41,7 +41,7 @@ func main() {
     filter := bson.D{
         {"_type", "url"},
     };
-    
+
     database := "sample_woshingo";
     collection := "metadata";
 
